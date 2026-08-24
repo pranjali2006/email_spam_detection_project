@@ -141,3 +141,8 @@ Interested in Machine Learning, Data Science and ML Research.
 ---
 
 ⭐ This project is part of my ongoing journey of learning and implementing Machine Learning algorithms through practical projects.
+## 🌐 Live Demo
+
+🚀 **Streamlit App:** [Open Email Spam Detector](https://emailspamdetectionproject-mtkzpyyywuzf24ig2tiyzx.streamlit.app/)
+
+Try entering an email message and see whether the model classifies it as **Spam** or **Safe (Ham)**.
